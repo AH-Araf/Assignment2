@@ -123,3 +123,49 @@ footer ul{
     display: flex;
     margin-left: 22%;
 }
+.exp{
+    margin-right: 90px;
+    margin-left: 90px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 6px solid darkred;
+    background-color: gray;
+}
+.small{
+    color:darkred;
+    font-size: 28px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(darkred, red);
+    padding: 8px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 100px;
+}
+.new-button{
+    text-decoration: none;
+    background-image: linear-gradient(darkblue, skyblue);
+    padding: 8px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 100px;
+}
+.sky{
+    text-decoration: none;
+    background-image: linear-gradient(black,skyblue);
+    padding: 8px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 100px;
+}
+.text1{
+    text-align: center;
+}
+.text{
+    color: gray;
+    text-align: center;
+}
