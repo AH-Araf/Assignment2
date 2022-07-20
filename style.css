@@ -22,6 +22,9 @@ body{
     background-color: red;
     border-radius: 6px;
 }
+.two:hover{
+    background-color: lightseagreen;
+}
 .three{
     width: 50%;
     padding: 60px;
@@ -56,6 +59,10 @@ body{
     margin: 20px;
     text-align: center;
     width: 112.5px;
+}
+.seven:hover{
+    background-color: gray;
+    color: white;
 }
 .eight{ 
     display: flex;
